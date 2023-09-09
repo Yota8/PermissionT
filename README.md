@@ -5,7 +5,7 @@ a library for easily request permissions (android)
 
 ```
 # Language
-- de_DE [Deutsch](readme/README.de.md)
+- de_DE [Deutsch](readme/README.de.md) <a href="README.de.md">de</a>
 - en [English](README.md)
 - es_ES [Español](readme/README.es_ES.md)
 - fr_FR [Français](readme/README.fr_FR.md)
