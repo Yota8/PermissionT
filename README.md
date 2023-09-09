@@ -1,6 +1,8 @@
 # PermissionT
 a library for easily request permissions (android)
 
+
+
 ```
 # Language
 - de_DE [Deutsch](readme/README.de_DE.md)
@@ -12,7 +14,12 @@ a library for easily request permissions (android)
 - pt_BR [Português do Brasil](readme/README.pt_BR.md)
 - ru [Русский](readme/README.ru.md)
 - sv_SE [Svenska](readme/README.sv_SE.md)
-- zh_CN [简体中文](readme/README.zh_CN.md) [中文](https://github.com/zam1024t/LocalizedMenu/blob/master/readme/README.zh_CN.md)
+- zh_CN [简体中文](readme/README.zh_CN.md)
+
 - zh_TW [繁体中文](readme/README.zh_TW.md)
 ```
+
+[Deutsch]: README/README.de
+
+
 
