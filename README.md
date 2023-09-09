@@ -5,7 +5,7 @@ a library for easily request permissions (android)
 
 ```
 # Language
-- de_DE [Deutsch](readme/README.de_DE.md)
+- de_DE [Deutsch](readme/README.de.md)
 - en [English](README.md)
 - es_ES [Español](readme/README.es_ES.md)
 - fr_FR [Français](readme/README.fr_FR.md)
@@ -18,8 +18,6 @@ a library for easily request permissions (android)
 
 - zh_TW [繁体中文](readme/README.zh_TW.md)
 ```
-
-[Deutsch]: README/README.de
 
 
 
