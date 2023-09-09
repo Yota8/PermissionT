@@ -1,0 +1,5 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources xmlns:tools="http://schemas.android.com/tools">
+    <string name="title_fr" tools:ignore="ExtraTranslation">Obtenir des permissions</string>
+    <string name="if_permission_ok_fr" tools:ignore="ExtraTranslation">En acceptant les autorisations, cela signifie que cette application utilise vos autorisations pour des activités connexes. Vous pouvez supprimer ces accès à tout moment dans vos paramètres pour arrêter le comportement inconfortable que cette application peut vous causer.</string>
+</resources>

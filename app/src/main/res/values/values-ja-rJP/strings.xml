@@ -1,0 +1,5 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources >
+    <string name="title_jp" >アクセス権の取得</string>
+    <string name="if_permission_ok_jp" >権限に同意するということは、アプリケーションが権限を使用して関連するアクティビティを実行することを示します。これらのアクセス権を設定からいつでも削除して、このアプリケーションがもたらす不快な動作を停止することができます。</string>
+</resources>

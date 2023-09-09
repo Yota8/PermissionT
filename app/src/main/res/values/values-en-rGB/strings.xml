@@ -1,0 +1,5 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="title_en">Obtain permissions</string>
+    <string name="if_permission_ok_en" >Agreeing to permissions means that this application will use your permissions for related activities. You can remove these access permissions from the settings at any time to stop any discomfort this application may cause you.</string>
+</resources>

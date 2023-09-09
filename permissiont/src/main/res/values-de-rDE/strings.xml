@@ -1,0 +1,5 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources xmlns:tools="http://schemas.android.com/tools">
+    <string name="title_de" tools:ignore="ExtraTranslation">Berechtigungen einholen</string>
+    <string name="if_permission_ok_de" tools:ignore="ExtraTranslation">Die Zustimmung zu Berechtigungen bedeutet, dass diese Anwendung Ihre Berechtigungen für verwandte Aktivitäten verwendet. Sie können diese Zugriffsberechtigungen jederzeit aus den Einstellungen entfernen, um jegliche Unannehmlichkeiten, die diese Anwendung verursachen kann, zu stoppen.</string>
+</resources>

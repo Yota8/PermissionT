@@ -1,5 +1,6 @@
-# About
-PermissionT: an android library for easily request permissions 
+# 关于
+
+PermissionT: 简化获取权限的一个Android库
 
 
 
@@ -15,6 +16,8 @@ PermissionT: an android library for easily request permissions
 
 - <a href="README/README.jp.md">日本語</a>
 
+- <a href="README/README.ru.md">Русский</a>
+
 - <a href="README/README.zh_CN.md">简体中文</a>
 
 - <a href="README/README.zn_TW.md">繁体中文</a>
@@ -23,7 +26,7 @@ PermissionT: an android library for easily request permissions
 
 
 
-# Implementation
+# 依赖注入
 
 ```css
 allprojects {
@@ -44,13 +47,19 @@ dependencies {
 
 
 
-## Usage
+## 如何使用
 
 ```kotlin
+/*
+*   @param1: 发起调用的activity
+*   @param2: 您所需的权限(可以为多个请求)
+*   allGranted: 所有权限均成功获取
+*   deniedList: 用户拒绝的权限列表
+* */
 PermissionT.request(this, Manifest.permission.CALL_PHONE) { allGranted, deniedList ->
-    // After obtaining all the permissions you need, proceed with the relevant operations for the permissions you requested
+    // 获取您需要的所有权限后,进行您所请求权限的相关操作
     if (allGranted) {
-        // Actions after obtaining permissions
+        // 获取权限后的操作
         // call()
     } else {
         Toast.makeText(this, "You denied $deniedList", Toast.LENGTH_SHORT).show()

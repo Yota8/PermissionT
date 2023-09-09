@@ -1,0 +1,5 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources xmlns:tools="http://schemas.android.com/tools">
+    <string name="title_cn" tools:ignore="ExtraTranslation">获取权限</string>
+    <string name="if_permission_ok_cn" tools:ignore="ExtraTranslation">同意权限，即表示本应用会使用您的权限进行相关活动。你可以随时在设置中移除这些访问权限，以停止本应用可能会为您带来的不适行为。</string>
+</resources>

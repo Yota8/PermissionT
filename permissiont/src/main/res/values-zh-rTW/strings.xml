@@ -1,0 +1,5 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources xmlns:tools="http://schemas.android.com/tools">
+    <string name="title_tw" tools:ignore="ExtraTranslation">獲取許可權</string>
+    <string name="if_permission_ok_tw" tools:ignore="ExtraTranslation">同意許可權，即表示本應用會使用您的許可權進行相關活動。 你可以隨時在設定中移除這些存取權限，以停止本應用可能會為您帶來的不適行為。</string>
+</resources>
