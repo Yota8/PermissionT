@@ -26,14 +26,14 @@ a library for easily request permissions (android)
 ```css
 allprojects {
 	repositories {
-		...
-		maven { url 'https://jitpack.io' }
+	...
+	maven { url 'https://jitpack.io' }
 	}
 }
 ```
 
 ```css
 dependencies {
-	    implementation 'com.github.Yota8:PermissionT:1.0.0'
+	  implementation 'com.github.Yota8:PermissionT:1.0.0'
 }
 ```
