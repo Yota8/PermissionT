@@ -19,3 +19,21 @@ a library for easily request permissions (android)
 
 - <a href="README/README.zn_TW.md">繁体中文</a>
 
+
+
+# Implementation
+
+```css
+allprojects {
+		repositories {
+			...
+			maven { url 'https://jitpack.io' }
+		}
+	}
+```
+
+```css
+	dependencies {
+	        implementation 'com.github.Yota8:PermissionT:1.0.0'
+	}
+```
