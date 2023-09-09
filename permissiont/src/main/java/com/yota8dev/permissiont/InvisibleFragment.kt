@@ -1,6 +1,5 @@
 package com.yota8dev.permissiont
 
-
 import androidx.activity.result.contract.ActivityResultContracts
 import androidx.fragment.app.Fragment
 
@@ -25,7 +24,6 @@ class InvisibleFragment : Fragment() {
 
     fun requestNow(cb: PermissionCallback, vararg permissions: String) {
         callback = cb
-//        requestPermissions(permissions, 1)
         requestPermissionLauncher.launch(permissions)
     }
 }

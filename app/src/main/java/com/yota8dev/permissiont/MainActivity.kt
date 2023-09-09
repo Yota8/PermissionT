@@ -20,7 +20,7 @@ class MainActivity : AppCompatActivity() {
             * */
 
             /* Chinese:
-            * 您可以通过如下语法来获取权限.
+            * 您可以通过如下语法来获取权限,
             * 第二个参数(Manifest.permission.XXX)可以为任意个数的权限,
             * lambda表达式中进行申请权限的处理
             * */
