@@ -1,5 +1,0 @@
-<?xml version="1.0" encoding="utf-8"?>
-<resources >
-    <string name="title_fr" >Obtenir des permissions</string>
-    <string name="if_permission_ok_fr" >En acceptant les autorisations, cela signifie que cette application utilise vos autorisations pour des activités connexes. Vous pouvez supprimer ces accès à tout moment dans vos paramètres pour arrêter le comportement inconfortable que cette application peut vous causer.</string>
-</resources>

@@ -11,7 +11,7 @@ import android.widget.Toast
 class MainActivity : AppCompatActivity() {
     override fun onCreate(savedInstanceState: Bundle?) {
         super.onCreate(savedInstanceState)
-        setContentView(R.layout.activity_main)
+        setContentView(com.yota8dev.permissiont.R.layout.activity_main)
         findViewById<Button>(R.id.button).setOnClickListener {
             /*
             You can obtain permissions through the following syntax.

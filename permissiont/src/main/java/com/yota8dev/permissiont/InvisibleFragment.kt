@@ -1,6 +1,7 @@
 package com.yota8dev.permissiont
 
 import android.content.Context
+import android.util.Log
 import androidx.activity.result.contract.ActivityResultContracts
 import androidx.appcompat.app.AlertDialog
 import androidx.fragment.app.Fragment
@@ -23,6 +24,7 @@ class InvisibleFragment : Fragment() {
             }
         }
         val allGranted = deniedList.isEmpty()
+        Log.d("InvisibleFragment", ":$allGranted ")
         // Dialog
         if (allGranted != true) {
             val language = getCurrentLanguage()

@@ -1,5 +1,0 @@
-<?xml version="1.0" encoding="utf-8"?>
-<resources>
-    <string name="title_es">Obtener permisos</string>
-    <string name="if_permission_ok_es">Autorización de consentimiento, es decir, esta aplicación utilizará sus permisos para realizar las actividades pertinentes. Puede eliminar estos permisos de acceso en la configuración en cualquier momento para detener las molestias que esta aplicación puede causarle.</string>
-</resources>

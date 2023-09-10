@@ -1,5 +1,0 @@
-<?xml version="1.0" encoding="utf-8"?>
-<resources >
-    <string name="title_de">Berechtigungen einholen</string>
-    <string name="if_permission_ok_de">Die Zustimmung zu Berechtigungen bedeutet, dass diese Anwendung Ihre Berechtigungen für verwandte Aktivitäten verwendet. Sie können diese Zugriffsberechtigungen jederzeit aus den Einstellungen entfernen, um jegliche Unannehmlichkeiten, die diese Anwendung verursachen kann, zu stoppen.</string>
-</resources>
