@@ -1,6 +1,6 @@
 <<<<<<< HEAD
 # About
-PermissionT: an android library for easily request permissions 
+PermissionT: an android library for easily request permissions.
 
 
 
