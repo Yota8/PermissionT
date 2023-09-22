@@ -1,5 +1,0 @@
-<?xml version="1.0" encoding="utf-8"?>
-<resources xmlns:tools="http://schemas.android.com/tools">
-    <string name="title_es" tools:ignore="ExtraTranslation">Obtener permisos</string>
-    <string name="if_permission_ok_es" tools:ignore="ExtraTranslation">Autorización de consentimiento, es decir, esta aplicación utilizará sus permisos para realizar las actividades pertinentes. Puede eliminar estos permisos de acceso en la configuración en cualquier momento para detener las molestias que esta aplicación puede causarle.</string>
-</resources>

@@ -1,5 +1,0 @@
-<?xml version="1.0" encoding="utf-8"?>
-<resources xmlns:tools="http://schemas.android.com/tools">
-    <string name="title_jp" tools:ignore="ExtraTranslation">アクセス権の取得</string>
-    <string name="if_permission_ok_jp" tools:ignore="ExtraTranslation">権限に同意するということは、アプリケーションが権限を使用して関連するアクティビティを実行することを示します。これらのアクセス権を設定からいつでも削除して、このアプリケーションがもたらす不快な動作を停止することができます。</string>
-</resources>

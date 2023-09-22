@@ -21,6 +21,6 @@ object PermissionT {
             invisibleFragment
         }
 
-        fragment.requestNow(callback, activity, *permissions)
+        fragment.requestNow(callback, *permissions)
     }
 }
