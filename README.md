@@ -1,3 +1,6 @@
+# PermisstionT
+a library for easily request permissions (android)
+
 # About
 PermissionT: an android library for easily request permissions.
 
@@ -57,7 +60,3 @@ PermissionT.request(this, Manifest.permission.CALL_PHONE) { allGranted, deniedLi
 //     }
 // }
 ```
-=======
-# PermisstionT
-a library for easily request permissions (android)
->>>>>>> 8e504600d4b61e644c216cde0b94396a1d95a143
