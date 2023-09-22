@@ -15,7 +15,6 @@ PermissionT: an android library for easily request permissions
 
 
 
-
 # Implementation
 
 ```css
